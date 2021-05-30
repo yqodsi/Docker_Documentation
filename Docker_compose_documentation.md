@@ -17,3 +17,9 @@ These **YAML** rules, both human-readable and machine-optimized, provide us an e
 Almost every rule replaces a specific Docker command so that in the end we just need to run:
 
 `docker-compose up`
+
+ ```
+ sfsfs
+ sdfsdf
+ sdffsf
+ ```
